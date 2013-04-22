@@ -1,5 +1,13 @@
 # date_range
 
+## Install
+
+```
+$ curl https://raw.github.com/tototoshi/date_range/master/date_range > ~/bin/date_range && chmod 0755 ~/bin/date_range
+```
+
+
+## Usage
 
 ```
 $ date_range --start 20130301 --end 20130401 --step 3
