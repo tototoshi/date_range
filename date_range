@@ -35,7 +35,7 @@ while True:
     if result <= end <= start:
         break
 
-    if start < end < result:
+    if start < end <= result:
         break
 
     delta += step
