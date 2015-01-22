@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ curl https://raw.github.com/tototoshi/date_range/master/date_range > ~/bin/date_range && chmod 0755 ~/bin/date_range
+$ curl https://raw.githubusercontent.com/tototoshi/date_range/master/date_range > ~/bin/date_range && chmod 0755 ~/bin/date_range
 ```
 
 
